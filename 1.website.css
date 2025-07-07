@@ -309,7 +309,7 @@ a {
   margin-left: 31%;
 }
 
-@media (max-width: 555px) {
+@media (max-width: 600px) {
   .navbar {
     height: 70px;
     width: 100%;
